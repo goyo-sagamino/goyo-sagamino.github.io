@@ -1,0 +1,22 @@
+﻿<!doctype html>
+<html>
+<head>
+	<title>近代小説のメモ｜</title>
+	<meta charset = "UTF-8">
+	<link rel = "stylesheet" href = "../style.css">
+</head>
+<body>
+	<div class = "wrapper">
+	<div id = "text">
+	<h1>芥川龍之介「」</h1>
+	<p>近代小説を読み進めていく中で、気にかかることなどを書き留める。</p><br><br>
+	
+	<div class = "exp">
+	<h2>・「」・,ℓ.</h2>
+	<p></p>
+	</div>
+	
+	</div>
+	</div>
+</body>
+</html>
